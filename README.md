@@ -12,6 +12,9 @@ A Tech. Enthusiast exploring the world of 0's and 1's .
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anuragverse&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragverse&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anuragverse&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=anuragverse&icon=5&color=9)](https://visitcount.itsvg.in)
 
