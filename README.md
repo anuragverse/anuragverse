@@ -15,6 +15,8 @@ A Tech. Enthusiast exploring the world of 0's and 1's .
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anuragverse&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+![](https://github.com/anuragverse/anuragverse/blob/main/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=anuragverse&icon=5&color=9)](https://visitcount.itsvg.in)
 
