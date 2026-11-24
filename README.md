@@ -18,55 +18,14 @@
 
 ## 🛠️ Languages & Tools
 
-> ## Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />
-</p>
-
-> ## Frontend
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="48" height="48" style="margin: 4px;" />
-</p>
-
-> ## Backend
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" style="margin: 4px;" />
-</p>
-
-> ## Database
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" />
-</p>
-
-> ## AI / Machine Learning
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" style="margin: 4px;" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs" />
-</p>
-
-> ## Tools
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" />
-</p>
+| | |
+| :-- | :-- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=flat-square) ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square) ![Java](https://img.shields.io/badge/Java-21262d?style=flat-square) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-21262d?style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-21262d?style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-21262d?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-21262d?style=flat-square) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-21262d?style=flat-square) ![Express](https://img.shields.io/badge/Express-21262d?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat-square) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-21262d?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-21262d?style=flat-square) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-21262d?style=flat-square) ![Generative AI](https://img.shields.io/badge/Generative%20AI-21262d?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-21262d?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-21262d?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-21262d?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-21262d?style=flat-square) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-21262d?style=flat-square) ![VS Code](https://img.shields.io/badge/VS%20Code-21262d?style=flat-square) ![Figma](https://img.shields.io/badge/Figma-21262d?style=flat-square) |
 
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/anurag-sinha-722444257/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Anurag Sinha's LinkedIn"/></a> <a href="mailto:codeverse29@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Anurag Sinha's Email"/></a></p>
@@ -74,4 +33,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
-
